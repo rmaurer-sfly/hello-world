@@ -1,2 +1,2 @@
 # hello-world
-for learning how to use github
+"self-educational" project for learning how to use git/github
